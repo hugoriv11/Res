@@ -61,5 +61,4 @@ public class VentanaHistoria2 extends JFrame {
             }
         });
     }
-    
 }
